@@ -1,0 +1,17 @@
+crewai>=0.130.0
+crewai-tools>=0.47.1
+fastapi>=0.110.3
+uvicorn
+python-multipart
+langchain-openai
+langchain-community
+tavily-python
+motor
+pymongo
+PyPDF2
+pydantic>=2.0.0
+numpy>=2.1.0
+pandas>=2.2.2
+google-generativeai
+python-dotenv
+litellm

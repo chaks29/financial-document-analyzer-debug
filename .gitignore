@@ -1,0 +1,13 @@
+.env
+data/
+outputs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+venv/
+env/
+analysis.db
+*.pdf
+project_presentation.md
