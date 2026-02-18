@@ -49,7 +49,7 @@ The system analyzes financial documents like Tesla's Q2 2025 financial update.
 
 ---
 
-## 7. Performance & Success Metrics
+### Performance & Success Metrics
 
 ### KPIs
 *   **Processing Time:** Average time to analyze a 20-page PDF (Target: < 2 minutes).
