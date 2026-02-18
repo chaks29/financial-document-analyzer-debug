@@ -29,9 +29,9 @@ The system analyzes financial documents like Tesla's Q2 2025 financial update.
 1.  Create a `.env` file in the root directory.
 2.  Add keys:
     ```env
-    GOOGLE_API_KEY=your_gemini_api_key
+    Openrouter_API_KEY=your_Openrouter_api_key
     MONGODB_URL=mongodb://localhost:27017
-    SERPER_API_KEY=your_search_api_key
+    Tavliy_API_KEY=your_search_api_key
     ```
 3.  Ensure MongoDB is running locally or provide a connection string.
 
